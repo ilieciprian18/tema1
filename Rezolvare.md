@@ -3,7 +3,7 @@
 ## 1. DNS over HTTPS
 Am implementat funcția aici:
 ```python
-print("你好")
+print("你
 ```
 iar aici e un exemplu de execuție
 ```python
